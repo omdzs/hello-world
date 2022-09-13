@@ -1,3 +1,0 @@
-hello world
-this should be the diff
-
